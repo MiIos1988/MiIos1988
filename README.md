@@ -1,11 +1,23 @@
 
 <img src="./img/githubImg.png" alt="Img"/>
 
-<h1 align="center">
-  Hi <img src="./img/hello.gif" alt="Wave GIF" width="30px">, I'm Milos Sudimac
-</h1>
+
+<h1 align="center">Hello there 👋, I'm Milos Sudimac</h1>
+
+<h3 align="center">MERN Stack Developer 👨‍💻 </h3>
+
+<div align="center">
+
+🌍  I'm based in Aleksandrovac, Serbia
+  
+   👨‍💻 Take a look at my [Portfolio](https://sudimacmilos.vercel.app/) website  
+
+ 💬 Feel free to contact me at **milossudimac1988@gmail.com**
+  
+</div>
 
 
+<h3 align="center">:rocket: I have experience with:</h3>
 
 <p align="center"> 
   <img src="./img/html.png" alt="Hhtml" width="50" height="50"/>
