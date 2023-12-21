@@ -27,6 +27,7 @@
   <img src="./img/bootstrap.png" alt="Bootstrap" width="50" height="50"/>
   <img src="./img/git.png" alt="git" width="50" height="50"/>
   <img src="./img/javascript.png" alt="Javascript" width="50" height="50"/>
+  <img src="./img/typescript.png" alt="Typescript" width="50" height="50"/>
   <img src="./img/react.png" alt="React" width="50" height="50"/>
   <img src="./img/redux.png" alt="Redux" width="50" height="50"/>
   <img src="./img/node.png" alt="Node" width="50" height="50"/>
